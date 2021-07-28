@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ya-min-thu
+- 👀 I’m interested in natural language processing
+- 🌱 I’m currently learning everything I can
+- 💞️ I’m looking to collaborate on projects on NLP and data analysis
+- 📫 How to reach me : here or my linkedin @ https://www.linkedin.com/in/ya-min-thu-222737154/
